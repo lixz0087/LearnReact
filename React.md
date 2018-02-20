@@ -4,7 +4,7 @@
 
 ##### Prop
 
-###### Directly use the input argument
+###### Directly use the input argument(No props)
 
 ```react
 const VideoListItem = (props) => {
